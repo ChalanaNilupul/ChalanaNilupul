@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalananilupul&label=Profile%20views&color=0e75b6&style=flat" alt="chalananilupul" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **HTML,CSS,Java,SQL,PHP,JS**
@@ -24,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalananilupul&show_icons=true&locale=en" alt="chalananilupul" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalananilupul&" alt="chalananilupul" /></p> --->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?usere=chalananilupul&" alt="chalananilupul" /></p> -->
