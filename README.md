@@ -1,4 +1,4 @@
-![MasterHead](https://github.blog/wp-content/uploads/2021/11/creepy-crawly-frame-removed.gif?resize=1024%2C538)
+![chalananilupul](./banner.gif)
 <h1 align="center">Hi 👋, I'm Chalana</h1>
 <h3 align="center">Coding feels good</h3>
 <img align="right" alt="Coding" width="400" src="https://media.moddb.com/images/games/1/83/82426/auto/coding.gif">
