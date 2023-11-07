@@ -1,7 +1,7 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2021/11/creepy-crawly-frame-removed.gif?resize=1024%2C538)
 <h1 align="center">Hi 👋, I'm Chalana</h1>
 <h3 align="center">Coding feels good</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/053/613/188/smaller_square/nazib-hamdan-ronda-lofi.jpg?1662616080">
+<img align="right" alt="Coding" width="400" src="https://media.moddb.com/images/games/1/83/82426/auto/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalananilupul&label=Profile%20views&color=0e75b6&style=flat" alt="chalananilupul" /> </p>
 
